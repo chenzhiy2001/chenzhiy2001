@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 - 🏗️ **I'm currently working on asynchronous OS tracing & debugging.**  
   - Check out my [work logs here](https://github.com/chenzhiy2001/os-tracing/discussions).
 
-- ⚙️ **Our lab is developing a comprehensive operating system debugging framework**
-  - Covering application, kernel, hypervisor, SBI
-  - Supporting Rust & C OSes like rCore-Tutorial-v3, xv6, ArceOS, Starry, Linux, and more.  
+- ⚙️ **Our lab is developing a comprehensive OS debugging framework.**
   - See our [lab roadmap](https://github.com/chenzhiy2001/os-tracing/discussions/3) for details.
 
 - 📚 **I’m also interested in TCS (Theoretical Computer Science).**  
