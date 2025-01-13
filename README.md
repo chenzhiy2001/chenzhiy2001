@@ -25,3 +25,5 @@ Here are some ideas to get you started:
   - Currently reading [*Concrete Mathematics*](https://www-cs-faculty.stanford.edu/~knuth/gkp.html) and [*Introduction to TCS*](https://introtcs.org/public/index.html).
 
 Thanks for visiting my GitHub! Feel free to reach out or explore my projects.
+
+![](https://komarev.com/ghpvc/?username=chenzhiy2001&style=pixel)
